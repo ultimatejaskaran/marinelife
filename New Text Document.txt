@@ -1,0 +1,9 @@
+<div id="holder">
+<table align="center" cellpadding="20" height="10" width="1100">
+<tr style="color:yellow; font-size:32px; text-align:center">
+<td height="10" width="367">The oceans contain 99 percent of the living space on the planet.</td>
+<td height="10" width="367">Scientific studies found that more than 269,000 tonnes of that debris floated on the surface of the ocean, while a shocking amount more littered the deep sea.
+<td height="10" width="367">Life began in the seas 3.1 billion to 3.4 billion years ago.</td>
+</tr>
+</div>
+<br><br>
